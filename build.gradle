@@ -1,6 +1,12 @@
 plugins {
     id 'java'
+    id 'application'
+
 }
+application {
+    mainClass = 'com.example.romannumerals.Main' // remplace par ta vraie classe si besoin
+}
+
 group 'com.example'
 version '1.0-SNAPSHOT'
 sourceCompatibility = '1.8'

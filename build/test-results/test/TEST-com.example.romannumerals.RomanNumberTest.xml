@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.romannumerals.RomanNumberTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-05-03T19:20:56" hostname="moncefs-MacBook-Pro.local" time="0.044">
+  <properties/>
+  <testcase name="testRangeFailures()" classname="com.example.romannumerals.RomanNumberTest" time="0.01"/>
+  <testcase name="testFromRomanKnownValues()" classname="com.example.romannumerals.RomanNumberTest" time="0.001"/>
+  <testcase name="testToRomanFromRomanConsistency()" classname="com.example.romannumerals.RomanNumberTest" time="0.028"/>
+  <testcase name="testInvalidRomanFailures()" classname="com.example.romannumerals.RomanNumberTest" time="0.001"/>
+  <testcase name="testToRomanKnownValues()" classname="com.example.romannumerals.RomanNumberTest" time="0.001"/>
+  <testcase name="testNumberMethodsAndComparable()" classname="com.example.romannumerals.RomanNumberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
